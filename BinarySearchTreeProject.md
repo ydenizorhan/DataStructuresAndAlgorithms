@@ -8,6 +8,8 @@
                                    /   \      /  \
                                   1     3    6    9      ==> numbers larger than 9, must follow the right side of the path
                                  /       \       /
-==> negative numbers must       0         4     7
+                                0         4     7
+                                
+==> negative numbers must 
 take place under zero 
 to the left
